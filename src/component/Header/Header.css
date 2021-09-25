@@ -1,0 +1,23 @@
+.Heading {
+  background-color: #0cecdd;
+}
+.Heading h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+.Heading h5 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.Heading h3 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.bg-create {
+  background-color: #0cecdd;
+  border: 2px solid gray;
+  /* border-radius: 10px; */
+}
+.nav-design {
+  color: black;
+}
