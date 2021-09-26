@@ -1,0 +1,16 @@
+.card-design {
+  background-color: #fef1e6;
+}
+.img-design {
+  height: 200px;
+  width: 200px;
+  border: 2px solid gray;
+  border-radius: 50%;
+}
+.btn-design {
+  background-color: #d0611e;
+  color: white;
+}
+.icon-color {
+  color: lightgreen;
+}
